@@ -1,0 +1,3 @@
+use command: ng build
+
+to get the dist folders index.html updated to the one in the src folder and use that as a index path
